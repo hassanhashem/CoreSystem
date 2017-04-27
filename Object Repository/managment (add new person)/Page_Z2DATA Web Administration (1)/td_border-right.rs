@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_border-right</name>
+   <tag></tag>
+   <elementGuidId>e4443972-e79f-4e05-912b-4e4cf50daca6</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/div[3]/div[1]/div[2]/div[@class=&quot;Adminwrapper&quot;]/div[@class=&quot;section-header&quot;]/div[@class=&quot;options&quot;]/div[1]/div[4]/div[@class=&quot;row&quot;]/table[@class=&quot;table-add-edit&quot;]/tbody[1]/tr[3]/td[@class=&quot;border-right&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-right</value>
+   </webElementProperties>
+</WebElementEntity>

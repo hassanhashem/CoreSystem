@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ctl00cph1CompanyRelatio</name>
+   <tag></tag>
+   <elementGuidId>51f5dc52-99ec-4e43-8064-dd5c55a311cb</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_cph1_CompanyRelationshipView1_CompanyRelationshipAdd_ctrlCompanyRelationship_ddlRelationshipType&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$cph1$CompanyRelationshipView1$CompanyRelationshipAdd$ctrlCompanyRelationship$ddlRelationshipType</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_cph1_CompanyRelationshipView1_CompanyRelationshipAdd_ctrlCompanyRelationship_ddlRelationshipType</value>
+   </webElementProperties>
+</WebElementEntity>

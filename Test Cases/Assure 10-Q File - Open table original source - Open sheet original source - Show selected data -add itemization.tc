@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assure 10-Q File - Open table original source - Open sheet original source - Show selected data -add itemization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2675c1d3-900c-4709-a3f8-6e6bebe6faae</testCaseGuid>
+</TestCaseEntity>
