@@ -69,7 +69,7 @@ WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
 
 WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (12)/a_Companies Fund Rounds'))
 
-WebUI.mouseOver(findTestObject(null))
+WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
 
 WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (14)/a_Investors Funds'))
 
