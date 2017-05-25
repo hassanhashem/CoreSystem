@@ -31,50 +31,6 @@ WebUI.click(findTestObject('Vc tab/Page_z2data. Login/input_LoginFormLoginButton
 
 WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
 
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (1)/a_Pre Mapping'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (2)/span_Angel'))
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (3)/a_VC Company Mapping'))
-
-WebUI.verifyTextPresent('VC COMPANY MAPPING', true)
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (5)/a_Funds Posting'))
-
-WebUI.verifyTextPresent('Investor Funds', true)
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (7)/a_Fund Mapping'))
-
-WebUI.verifyTextPresent('Investor Funds', true)
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (8)/a_Fund Round Posting'))
-
-WebUI.verifyTextPresent('Startup Fund Round', true)
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (10)/a_Fund Round Mapping'))
-
-WebUI.verifyTextPresent('Fund Round Mapping', true)
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (12)/a_Companies Fund Rounds'))
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
-WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (14)/a_Investors Funds'))
-
-WebUI.mouseOver(findTestObject('Vc tab/Page_Z2DATA Web Administration/a_VC'))
-
 WebUI.click(findTestObject('Vc tab/Page_Z2DATA Web Administration (16)/a_Investor Sectors And Regions'))
 
 WebUI.verifyTextPresent('Investor Regions And Sectors', true)
