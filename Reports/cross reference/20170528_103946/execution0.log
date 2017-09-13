@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<log>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788584</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : cross reference</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">cross reference</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/cross reference</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788606</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;nada.mahmoud - SQM-NADA.z2data.local&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">nada.mahmoud - SQM-NADA.z2data.local</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788607</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 10 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788608</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;192.168.3.140&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.3.140</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788609</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;4.5.0.3&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">4.5.0.3</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788886</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/code table</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/code table</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/code table</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\code table.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788901</millis>
+  <sequence>6</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/code table has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788903</millis>
+  <sequence>7</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/code table</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788975</millis>
+  <sequence>8</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/generation</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/generation</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/generation</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\generation.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788977</millis>
+  <sequence>9</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/generation has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:48</date>
+  <millis>1495960788978</millis>
+  <sequence>10</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/generation</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789032</millis>
+  <sequence>11</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/recipe importer</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/recipe importer</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/recipe importer</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\recipe importer.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789035</millis>
+  <sequence>12</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/recipe importer has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789036</millis>
+  <sequence>13</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/recipe importer</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789088</millis>
+  <sequence>14</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/verification</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/verification</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/verification</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\verification.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789091</millis>
+  <sequence>15</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/verification has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789091</millis>
+  <sequence>16</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/verification</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-05-28T10:39:49</date>
+  <millis>1495960789093</millis>
+  <sequence>17</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : cross reference</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

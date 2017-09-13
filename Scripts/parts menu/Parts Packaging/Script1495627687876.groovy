@@ -33,5 +33,7 @@ WebUI.mouseOver(findTestObject('parts/Page_Z2DATA Web Administration/a_Parts'))
 
 WebUI.click(findTestObject('parts/Page_Z2DATA Web Administration (6)/a_Part Packaging'))
 
-WebUI.verifyTextPresent('parts packaging', false)
+WebUI.waitForAlert(5)
+
+WebUI.verifyTextPresent('Parts Packaging ', false)
 

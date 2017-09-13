@@ -19,21 +19,13 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('1 login fun'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('http://dev.z2data.com/administration/login.aspx')
+WebUI.click(findTestObject('fin analysis/Page_Z2DATA Web Administration/a_Financial Analysis'))
 
-WebUI.setText(findTestObject('parts/Page_z2data. Login/input_LoginFormUserName'), 'nada.mahmoud@z2data.com')
+WebUI.click(findTestObject('fin analysis/Page_Z2DATA Web Administration (1)/a_Score Backlog'))
 
-WebUI.setText(findTestObject('parts/Page_z2data. Login/input_LoginFormPassword'), 'P@ssw0rd@2017')
+WebUI.verifyTextPresent('Score backlog', false)
 
-WebUI.click(findTestObject('parts/Page_z2data. Login/input_LoginFormLoginButton'))
-
-WebUI.mouseOver(findTestObject('parts/Page_Z2DATA Web Administration/a_Parts'))
-
-WebUI.click(findTestObject('parts/Page_Z2DATA Web Administration (20)/a_Life Cycle'))
-
-WebUI.waitForAlert(5)
-
-WebUI.verifyTextPresent('Parts LifeCycle', false)
+not_run: WebUI.closeBrowser()
 

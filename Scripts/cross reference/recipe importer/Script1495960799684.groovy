@@ -19,21 +19,3 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://dev.z2data.com/administration/login.aspx')
-
-WebUI.setText(findTestObject('parts/Page_z2data. Login/input_LoginFormUserName'), 'nada.mahmoud@z2data.com')
-
-WebUI.setText(findTestObject('parts/Page_z2data. Login/input_LoginFormPassword'), 'P@ssw0rd@2017')
-
-WebUI.click(findTestObject('parts/Page_z2data. Login/input_LoginFormLoginButton'))
-
-WebUI.mouseOver(findTestObject('parts/Page_Z2DATA Web Administration/a_Parts'))
-
-WebUI.click(findTestObject('parts/Page_Z2DATA Web Administration (20)/a_Life Cycle'))
-
-WebUI.waitForAlert(5)
-
-WebUI.verifyTextPresent('Parts LifeCycle', false)
-

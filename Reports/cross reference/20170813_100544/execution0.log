@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<log>
+<record>
+  <date>2017-08-13T10:05:46</date>
+  <millis>1502611546573</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : cross reference</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">cross reference</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/cross reference</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:46</date>
+  <millis>1502611546596</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;nada.mahmoud - SQM-NADA.z2data.local&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">nada.mahmoud - SQM-NADA.z2data.local</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:46</date>
+  <millis>1502611546597</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 10 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:46</date>
+  <millis>1502611546598</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;192.168.3.140&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.3.140</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:46</date>
+  <millis>1502611546599</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;4.5.0.3&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">4.5.0.3</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:46</date>
+  <millis>1502611546863</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/code table</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/code table</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/code table</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\code table.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547014</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547345</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">-1</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547348</millis>
+  <sequence>8</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547351</millis>
+  <sequence>9</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/code table</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547353</millis>
+  <sequence>10</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/code table</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547408</millis>
+  <sequence>11</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/generation</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/generation</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/generation</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\generation.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547437</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547554</millis>
+  <sequence>13</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">-1</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547557</millis>
+  <sequence>14</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547559</millis>
+  <sequence>15</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/generation</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547560</millis>
+  <sequence>16</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/generation</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547668</millis>
+  <sequence>17</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/recipe importer</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/recipe importer</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/recipe importer</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\recipe importer.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547820</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547944</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">-1</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547946</millis>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547947</millis>
+  <sequence>21</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/recipe importer</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:47</date>
+  <millis>1502611547950</millis>
+  <sequence>22</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/recipe importer</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548015</millis>
+  <sequence>23</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/cross reference/verification</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/cross reference/verification</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/cross reference/verification</property>
+  <property name="source">E:\\katlonProjects\\CoreSystemTest Cases\\cross reference\\verification.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548061</millis>
+  <sequence>24</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548238</millis>
+  <sequence>25</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">-1</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548241</millis>
+  <sequence>26</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - return null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548252</millis>
+  <sequence>27</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/cross reference/verification</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548253</millis>
+  <sequence>28</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/cross reference/verification</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-08-13T10:05:48</date>
+  <millis>1502611548254</millis>
+  <sequence>29</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : cross reference</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
