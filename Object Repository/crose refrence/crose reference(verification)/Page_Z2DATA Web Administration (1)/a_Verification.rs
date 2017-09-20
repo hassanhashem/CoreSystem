@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Parts</name>
+   <name>a_Verification</name>
    <tag></tag>
-   <elementGuidId>750d4728-d642-4311-b172-91dd0017a794</elementGuidId>
+   <elementGuidId>4435476d-6c0f-404d-87ce-94ba5ea2e868</elementGuidId>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -17,27 +17,27 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_ctrlMenu&quot;)/li[13]/a[1]</value>
+      <value>id(&quot;ctl00_ctrlMenu&quot;)/li[12]/ul[1]/li[4]/a[1]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/administration/eProducts.aspx</value>
+      <value>/administration/CrossReference/Verification.aspx</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Parts</value>
+      <value>Verification</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>admin.sitemap.electronicpartsdesc</value>
+      <value>Verification</value>
    </webElementProperties>
 </WebElementEntity>

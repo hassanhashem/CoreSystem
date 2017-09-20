@@ -19,3 +19,13 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.callTestCase(findTestCase('1 login fun'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('crose refrence/Page_Z2DATA Web Administration/a_Cross Reference'))
+
+WebUI.click(findTestObject('crose refrence/Page_Z2DATA Web Administration (1)/a_Generation'))
+
+WebUI.verifyTextPresent('Generation', false)
+
+not_run: WebUI.closeBrowser()
+

@@ -6,7 +6,7 @@
    <elementGuidId>8828e74d-6599-4937-ab50-cf3da475ecee</elementGuidId>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>

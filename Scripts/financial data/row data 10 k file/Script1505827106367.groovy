@@ -19,5 +19,17 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('1 login fun'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('financial data/open fina updata report page'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('fin (row data 10k file)/Page_Z2DATA Web Administration/input_ctl00cph1txtCompany2'), '1000630')
+
+WebUI.click(findTestObject('fin (row data 10k file)/Page_Z2DATA Web Administration/span_Bel Fuse Inc.'))
+
+WebUI.click(findTestObject('fin (row data 10k file)/Page_Z2DATA Web Administration/CompanySelect'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.waitForPageLoad(10)
+
+WebUI.click(findTestObject('fin (row data 10k file)/Page_Z2DATA Web Administration/button_Search'))
+
+not_run: WebUI.closeBrowser()
 

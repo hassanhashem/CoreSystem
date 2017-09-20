@@ -21,3 +21,13 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('1 login fun'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('crose refrence/crose reference (recipe importer)/corse reference (code tabel/Page_Z2DATA Web Administration/a_Cross Reference'))
+
+WebUI.click(findTestObject('crose refrence/crose reference (recipe importer)/corse reference (code tabel/Page_Z2DATA Web Administration (1)/a_CodeTable'))
+
+WebUI.waitForPageLoad(5)
+
+WebUI.verifyTextPresent('Import CodeTable', false)
+
+not_run: WebUI.closeBrowser()
+

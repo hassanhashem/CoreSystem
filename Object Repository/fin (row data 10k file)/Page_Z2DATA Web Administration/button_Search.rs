@@ -1,43 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Parts</name>
+   <name>button_Search</name>
    <tag></tag>
-   <elementGuidId>750d4728-d642-4311-b172-91dd0017a794</elementGuidId>
+   <elementGuidId>7c4dd303-f2e4-48aa-96c2-83ff4212a85e</elementGuidId>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_ctrlMenu&quot;)/li[13]/a[1]</value>
+      <value>.//*[@id='aspnetForm']/div[3]/div[1]/div[2]/div/div[2]/div[2]/button[1]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>/administration/eProducts.aspx</value>
+      <value>GetFinancialReport();</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Parts</value>
+      <value>Search</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>type</name>
       <type>Main</type>
-      <value>admin.sitemap.electronicpartsdesc</value>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary waves-effect waves-light</value>
    </webElementProperties>
 </WebElementEntity>

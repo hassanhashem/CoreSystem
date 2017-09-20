@@ -23,15 +23,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://dev.z2data.com/administration/login.aspx')
 
-WebUI.setText(findTestObject('scorebacklog/Page_z2data. Login/input_LoginFormUserName'), 'nada.mahmoud@z2data.com')
+WebUI.setText(findTestObject('scorebacklog/Page_z2data. Login/input_LoginFormUserName'), 'hassan.hashem@z2data.com')
 
 WebUI.setText(findTestObject('scorebacklog/Page_z2data. Login/input_LoginFormPassword'), 'P@ssw0rd@2017')
 
 WebUI.click(findTestObject('scorebacklog/Page_z2data. Login/input_LoginFormLoginButton'))
 
+WebUI.waitForPageLoad(10)
+
 WebUI.click(findTestObject('scorebacklog/Page_Z2DATA Web Administration/a_FINANCIAL DATA'))
 
 WebUI.click(findTestObject('scorebacklog/Page_Z2DATA Web Administration (1)/a_Financial Update Report'))
-
-not_run: WebUI.closeBrowser()
 

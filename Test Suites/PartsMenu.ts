@@ -18,12 +18,6 @@
       <testCaseId>Test Cases/parts menu/commn feature mapping</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>3e3ce4be-6df4-4214-99d4-972f4200999c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/parts menu/companies parts</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>28eb2182-7569-4541-a4f4-9008eb701394</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
